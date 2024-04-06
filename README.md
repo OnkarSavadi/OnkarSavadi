@@ -7,6 +7,6 @@
 
 
 ## 🛠️ Tools
-  Database: Google BigQuery, MySQL
-  Python: NumPy, Pandas, Scipy, EDA
-  Business Intelligence: Tableau, PowerBI, MS Excel
+  - Database: Google BigQuery, MySQL
+  - Python: NumPy, Pandas, Scipy, EDA
+  - Business Intelligence: Tableau, MS Excel
